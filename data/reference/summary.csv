@@ -1,0 +1,5 @@
+case,beta,blind_pct,weak_pct,effective_pct,rmse_target2,mean_path_count
+optimized,per-path,1.3201,1.6154,97.0646,0.6160,2.9628
+baseline_beta101,1.01,9.6004,4.7779,85.6218,1.0994,3.1008
+baseline_beta102,1.02,6.6736,1.0496,92.2768,1.6638,4.4116
+baseline_beta103,1.03,4.6550,0.8871,94.4579,2.2495,5.4211
